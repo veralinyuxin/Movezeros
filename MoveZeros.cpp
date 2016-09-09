@@ -1,7 +1,12 @@
+
+// This is a practice for pushing codes by terminal
+
 #include <iostream>
 #include <stdlib.h>
 #include <vector>
 using namespace std;
+
+
 
 void moveZeroes(vector<int>& nums) {
     int j = 0;
